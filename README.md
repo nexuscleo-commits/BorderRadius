@@ -4,9 +4,7 @@ Bem-vindo ao **CSS Border-Radius Showcase**! Este é um projeto simples, mas vis
 
 ## 🚀 Demo
 
-Visualize o projeto em ação aqui: **[Link para a Live Demo]**
-
-*(Dica: Você pode facilmente hospedar este projeto gratuitamente usando o GitHub Pages)*
+Visualize o projeto em ação aqui: **[[Link para a Live Demo](https://nexuscleo-commits.github.io/BorderRadius/)]**
 
 ---
 
@@ -44,7 +42,7 @@ Para visualizar o projeto em sua máquina local, siga estes passos simples:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/nexuscleo-commits/css-showcase.git
+   git clone https://github.com/nexuscleo-commits/BorderRadius/archive/refs/heads/main.zip
    ```
 
 2. **Navegue até o diretório do projeto:**

@@ -66,7 +66,6 @@ O efeito de fundo é criado com um pseudo-elemento `::before` no `body`. Três g
 body::before {
     content: "";
     position: fixed;
-    /* ... */
     background-image: 
         radial-gradient(circle at 25% 25%, #5500ff 0%, transparent 40%),
         radial-gradient(circle at 75% 25%, #ff007f 0%, transparent 40%),

@@ -11,6 +11,17 @@ body {
     padding: 40px;
 }
 
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #00ffff;
+    border: 1px solid #ff0000;
+    border-radius: 10px;
+    background-color: #2c2c2c69;
+}
+
 body::before {
     content: "";
     position: fixed;
@@ -99,6 +110,9 @@ body::before {
 }
 .border-11 {
     border-bottom-left-radius: 50% 20%;
+}
+.border-12 {
+    border-radius: 0 50% 50% 50%;
 }
 
 code {
